@@ -1,0 +1,14 @@
+layout_spectrum: 0.6096282
+typography_spectrum: 0.6073792
+color:
+  saturation: 0.3823771
+  lightness: 0.9310347
+  brandStrength: 0.002529511
+  brandColors:
+    - '#FFFFF0'
+    - '#FFC4F0'
+    - '#421E34'
+    - '#EA1CB3'
+    - '#FF5FD7'
+  rhythmicContrast: 0.004198813
+name: PelloAgency
